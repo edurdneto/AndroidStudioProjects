@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/eduardo/AndroidStudioProjects/FragmentBasics/app/build/intermediates/res/merged/debug/layout/article_view.xml",
+        "source": "/Users/eduardo/AndroidStudioProjects/FragmentBasics/app/src/main/res/layout/article_view.xml"
+    },
+    {
+        "merged": "/Users/eduardo/AndroidStudioProjects/FragmentBasics/app/build/intermediates/res/merged/debug/layout/news_articles.xml",
+        "source": "/Users/eduardo/AndroidStudioProjects/FragmentBasics/app/src/main/res/layout/news_articles.xml"
+    }
+]

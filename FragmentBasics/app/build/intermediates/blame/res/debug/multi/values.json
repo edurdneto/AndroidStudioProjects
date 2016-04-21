@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/eduardo/AndroidStudioProjects/FragmentBasics/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/eduardo/AndroidStudioProjects/FragmentBasics/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 52,
+                        "endOffset": 690
+                    }
+                }
+            }
+        ]
+    }
+]
