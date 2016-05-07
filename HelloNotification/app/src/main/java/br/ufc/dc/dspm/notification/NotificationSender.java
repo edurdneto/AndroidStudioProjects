@@ -33,6 +33,7 @@ public class NotificationSender extends Activity {
     }
 
     public void apertar(View view){
-        createNotification("vai","vai","vai");
+
+        createNotification("OnLine","Notification","Atencao");
     }
 }

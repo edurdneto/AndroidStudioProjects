@@ -17,6 +17,7 @@ public class TimePickerFragment extends DialogFragment implements TimePickerDial
     private TextView timeTextView;
 
     public void setTimeTextView(TextView textView) {
+
         this.timeTextView = textView;
     }
 
