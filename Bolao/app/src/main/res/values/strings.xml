@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bolao</string>
+    <color name="black">#000000</color>
+    <color name="grey">#555555</color>
+    <color name="greyLight">#F8F8FF</color>
+</resources>
