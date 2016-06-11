@@ -1,4 +1,4 @@
-package br.ufc.lsbd.eduardo.tp12;
+package br.ufc.dc.dspm.androidlocation;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

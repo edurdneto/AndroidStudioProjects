@@ -1,4 +1,4 @@
-package br.ufc.lsbd.eduardo.tp12;
+package br.ufc.dc.dspm.androidlocation;
 
 /**
  * Created by eduardo on 16-06-02.
@@ -6,6 +6,11 @@ package br.ufc.lsbd.eduardo.tp12;
 public class LatLng {
     public double latitude;
     public double longitude;
+
+    public LatLng(double latitude, double longitude) {
+        this.latitude = latitude;
+        this.longitude = longitude;
+    }
 
     public double getLatitude() {
         return latitude;
